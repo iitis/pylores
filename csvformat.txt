@@ -1,0 +1,7 @@
+5 columns:
+LOCATION_NAME; LOCATION_LATITUDE; LOCATION_LONGITUDE; HEIGHT; DEV_TYPE
+
+At this point three of those are most important:
+LOCATION_LATITUDE; LOCATION_LONGITUDE; HEIGHT;
+
+HEIGHT is in meters, ground is 0.
