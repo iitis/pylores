@@ -2,7 +2,7 @@ __author__ = 'Konrad Połys, Krzysztof Grochla'
 
 
 import copy, math, operator, random
-import numpy as np
+#import numpy as np
 import pyltes.devices as devices
 import datetime
 from operator import itemgetter
